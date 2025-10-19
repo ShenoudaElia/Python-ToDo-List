@@ -1,5 +1,3 @@
-# Python-ToDo-List
-A simple Python To-Do List project to practice basic programming concepts.
 # To-Do List App 📝
 
 This is a simple Python project that allows you to manage daily tasks.  
